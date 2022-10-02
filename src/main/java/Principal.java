@@ -4,7 +4,7 @@ public class Principal {
     }
 public static void Inicializar(){
 Curso curso=new Curso("Marcelo",1,"ICI-I");
-curso.AddAlumno(new Alumno(21073339-6, curso.getNombre(), "Castro", curso.getCarrera()));
+curso.AddAlumno(new Alumno(21173339-6, curso.getNombre(), "Castro", curso.getCarrera()));
 
 }
 }
